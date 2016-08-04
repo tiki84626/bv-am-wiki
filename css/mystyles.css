@@ -1,0 +1,28 @@
+li {
+  list-style: none;
+}
+
+.glyphicon-user {
+  padding-right: 5px;
+}
+
+#header * {
+  padding-left: 10px;
+}
+#globe {
+  width: 100px;
+  height: 150;
+}
+
+#left-nav {
+  padding-top: 15px;
+}
+
+#top-p {
+  padding-top: 30px;
+  text-align: left;
+}
+
+#divider {
+  width: 100%;
+}
