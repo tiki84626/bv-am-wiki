@@ -16,6 +16,8 @@ li {
 
 #left-nav {
   padding-top: 15px;
+  padding-left: 30px;
+
 }
 
 #top-p {
@@ -25,4 +27,8 @@ li {
 
 #divider {
   width: 100%;
+}
+
+#navstuff {
+  padding-left: 10px;
 }
